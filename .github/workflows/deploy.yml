@@ -23,6 +23,7 @@ on:
   push:
     branches:
       - master
+      - spring-boot-2.3
 
 jobs:
     deploy:
